@@ -1,4 +1,4 @@
-QUESTION:
+QUESTION
 
 Define a Python function descending(l) that returns True if each element in its input list is at most as big as the one before it. 
 For instance:
